@@ -1,0 +1,16 @@
+body{
+	background: url("../img/yellow.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #FFD700;
+}
+
+#menu ul li:hover{
+	background: #FFD700;
+}
+
+.button-more{
+	background: #FFD700;
+}
